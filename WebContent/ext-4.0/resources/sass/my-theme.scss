@@ -1,7 +1,9 @@
-$base-color: #33CC99;
+$base-color: #33CC99; //green
+//$base-color: #FF6699; //rosa
+
 $window-border-radius: 5px;
 $panel-frame-border-radius: 10px;
-$panel-header-background-gradient: 'matte' !default;
+$panel-header-background-gradient: null;//'matte' !default;
 
 @import 'compass';
 @import 'ext4/default/all';
